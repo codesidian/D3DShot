@@ -1,4 +1,4 @@
-# D3DShot
+# D3DShot - MODIFIED TO WORK WITH NEW VERSION UNTIL MASTER IS UPDATED. 
 
 
 _D3DShot_ is a pure Python implementation of the [Windows Desktop Duplication API](https://docs.microsoft.com/en-us/windows/desktop/direct3ddxgi/desktop-dup-api). It leverages DXGI and Direct3D system libraries to enable extremely fast and robust screen capture functionality for your Python scripts and applications on Windows. 
